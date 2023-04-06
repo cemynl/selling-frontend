@@ -12,7 +12,7 @@ import { SalesByCategoryComponent } from './sales-by-category/sales-by-category.
 import { LastFewTransactionsComponent } from './last-few-transactions/last-few-transactions.component';
 import { TopThreeProductsComponent } from './top-three-products/top-three-products.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
-import { faCoffee } from '@fortawesome/free-solid-svg-icons';
+
 
 @NgModule({
   declarations: [
@@ -31,5 +31,4 @@ import { faCoffee } from '@fortawesome/free-solid-svg-icons';
   bootstrap: [AppComponent],
 })
 export class AppModule {
-  faCoffee = faCoffee;
 }
