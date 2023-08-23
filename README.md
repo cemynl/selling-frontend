@@ -1,1 +1,1 @@
-# selling-frontend
+https://youtu.be/ot1LRr3ez5Q?si=4DyRSEpxVD-ZdoMw&t=446
